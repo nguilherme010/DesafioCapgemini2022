@@ -15,7 +15,7 @@
 
 <h1>:technologist: Instruções para execução e testes</h1>
 
-1. Acesse os [Releases](https://github.com/nguilherme010/Desafio-Capgemini-2022/releases)<br/>
+1. Acesse os [Releases](https://github.com/nguilherme010/DesafioCapgemini2022/releases)<br/>
 2. Faça o download do release (.zip), contendo o projeto.<br/>
 3. Extraia o arquivo e, numa IDE de sua escolha, abra a pasta de alguma das questões (e.g. "Desafio Capgemini/Questão 01").
 
