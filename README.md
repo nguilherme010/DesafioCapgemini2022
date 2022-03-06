@@ -29,7 +29,7 @@
 
 Questão simples, divertida para testar o método de organização de packages.
 
-  - Além dos testes de correspondência com os exemplos do enunciado, o projeto contém um teste para o caso de o array inserido tiver um número par de inteiros.
+  - Além dos testes de correspondência com os exemplos do enunciado, o projeto contém um teste para o caso de o array inserido ter um número par de inteiros.
 
 Toda o passo-a-passo do código está documentado no próprio código, através dos comentários.
 
